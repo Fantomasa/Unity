@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\Big Prokect\Assets\_Scripts\GroundCheck.cs">
+    <Files>
+      <File FileName="..\Big Prokect\Assets\_Scripts\Player.cs" Line="51" Column="39" />
+      <File FileName="..\Big Prokect\Assets\_Scripts\GroundCheck.cs" Line="16" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
