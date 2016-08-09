@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stack - AdMob.CSharp.Plugins", "Stack - AdMob.CSharp.Plugins.csproj", "{42650F59-2DEC-A919-75D6-274CD7CCFABC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stack - AdMob.CSharp", "Stack - AdMob.CSharp.csproj", "{77CAB9C6-C6CB-0348-21C0-152635C981E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42650F59-2DEC-A919-75D6-274CD7CCFABC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42650F59-2DEC-A919-75D6-274CD7CCFABC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42650F59-2DEC-A919-75D6-274CD7CCFABC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42650F59-2DEC-A919-75D6-274CD7CCFABC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77CAB9C6-C6CB-0348-21C0-152635C981E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77CAB9C6-C6CB-0348-21C0-152635C981E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77CAB9C6-C6CB-0348-21C0-152635C981E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77CAB9C6-C6CB-0348-21C0-152635C981E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

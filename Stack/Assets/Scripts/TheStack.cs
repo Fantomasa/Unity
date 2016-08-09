@@ -13,7 +13,7 @@ public class TheStack : MonoBehaviour
     public AudioSource placeTileSound;
     public AudioSource growUpTileSound;
     public AudioSource backgroundLoopSound;
-    public Text comboText;
+    //public Text comboText;
 
     private const float BOUNDZ_SIZE = 3.5f;
     private const float STACK_MOVING_SPEED = 5.0f;
@@ -65,7 +65,7 @@ public class TheStack : MonoBehaviour
                 SpawnTile();
                 scoreCount++;
                 scoreText.text = scoreCount.ToString();
-                comboText.text = "Combo: " + combo;
+                //comboText.text = "Combo: " + combo;
             }
             else
             {
